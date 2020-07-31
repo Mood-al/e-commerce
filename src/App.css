@@ -1,0 +1,10 @@
+.text-italic{
+    font-style: italic;
+}
+/* span{
+    font-size: 20px;
+} */
+.card-footer{
+    background: transparent !important;
+    border-top: none !important;
+}
